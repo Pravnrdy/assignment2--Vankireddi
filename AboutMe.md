@@ -9,6 +9,6 @@
 
    | Food/Drink | Location | Price |
    | ---------- | -------- | ----- |
-   |   Coke     |   MCD    |  1USD |
-   |   Burger   |  Tachos  | 1.5USD|
-   |   Pizza    | Pizza hut|  8USD |
+   |   Coke     |   MCD    |  1$   |
+   |   Burger   |  Tachos  |  1.5$ |
+   |   Pizza    | Pizza hut|  8$   |
