@@ -24,3 +24,5 @@ Assignment Purpose
 * A pair of shoes and neccesary clothes.
 
 ---
+
+[About me](https://github.com/Pravnrdy/assignment2--Vankireddi/blob/main/AboutMe.md)
