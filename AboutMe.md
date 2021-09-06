@@ -13,3 +13,15 @@
    |   Burger   |  Tachos  |  1.5$ |
    |   Pizza    | Pizza hut|  8$   |
    |   Nuggets  | Taco Bell|  2$   |
+
+---
+
+# Pithy Quotes
+> To live is the rarest thing in the world. Most people exist, that is all.
+                                                                          -*Oscar Wilde*
+
+> Everyone seems to have a clear idea of how other people should lead their lives, but none about his or her own.
+                                                                           ― *Paulo Coelho,The Alchemist*
+
+
+
