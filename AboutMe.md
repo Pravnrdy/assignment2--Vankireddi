@@ -3,3 +3,12 @@
 
 
   ![My picture](/praveen1.jpg?raw=true)
+
+  # FoodAndDrinks
+     The Folowing table illusttates the Best food and drinks avialbale in different locations near me at the best price.
+
+   | Food/Drink | Location | Price |
+   | ---------- | -------- | ----- |
+   |   Coke     |   MCD    |  1USD |
+   |   Burger   |  Tachos  | 1.5USD|
+   |   Pizza    | Pizza hut|  3USD |
