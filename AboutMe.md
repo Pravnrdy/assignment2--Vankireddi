@@ -12,3 +12,4 @@
    |   Coke     |   MCD    |  1$   |
    |   Burger   |  Tachos  |  1.5$ |
    |   Pizza    | Pizza hut|  8$   |
+   |   Nuggets  | Taco Bell|  2$   |
