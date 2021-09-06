@@ -1,3 +1,3 @@
 # Vankireddi Praveen Kumar Reddy
   My name is Praveen Reddy. I was a part of Indo-Us robot competetion held at IIT-Bombay and secured fourth place. I worked with Tech mahindra, India as a broad band tester for 13 months.<br> Later I joined amazon in level 3 position and got promoted to level 4 with in 17 months of experience which makes me one among the very few who cracked with in 2 years.
-  ![My picture](C:\Users\S545423\Desktop\webapps-repos\assignment2--Vankireddi)
+  ![My picture](/praveen.jpg?raw=true)
