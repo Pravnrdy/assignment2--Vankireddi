@@ -10,9 +10,9 @@ Assignment Purpose
 1. Take a cab to kansas city airport
 2. Arrive at New york city airport by a flight.
 3. Book a helicopter or take a ship route through travel agency to the island.
-  1. Search for a best Travel agency.
-  2. Get a good deal.
-  3. Make payment and have a safe journey.
+   1. Search for a best Travel agency.
+   2. Get a good deal.
+   3. Make payment and have a safe journey.
 4. Return to new york city and take a flight to kansas and return to home by cab.
 
 * A gimble to shoot best videos on phone
