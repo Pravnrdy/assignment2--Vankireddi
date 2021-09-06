@@ -4,8 +4,8 @@
 
   ![My picture](/praveen1.jpg?raw=true)
 
-  # FoodAndDrinks
-     The Following Table illustrates the Best food and drinks available in different locations near me at the best price. Please refer to this table and choose what you want.
+# FoodAndDrinks
+  The Following Table illustrates the Best food and drinks available in different locations near me at the best price.<br> Please refer to this table and choose what you want.
 
    | Food/Drink | Location | Price |
    | ---------- | -------- | ----- |
